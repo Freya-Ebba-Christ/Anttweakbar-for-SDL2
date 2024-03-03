@@ -1,3 +1,6 @@
+![image](https://github.com/Freya-Ebba-Christ/Anttweakbar-for-SDL2/assets/57752514/333f8c4f-0f1e-4351-a47c-448a9f35ff1a)
+<br>
+
 AntTweakBar development library
 -------------------------------
 
